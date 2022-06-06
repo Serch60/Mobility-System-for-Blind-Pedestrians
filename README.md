@@ -24,6 +24,7 @@ Software Tools:
 
 - LabelImg
 - Google Colab
+
 ![Captura de pantalla de 2022-06-06 17-15-44](https://user-images.githubusercontent.com/80178613/172258393-0460e4b1-21e5-4c31-9ff4-a6c9b7acccc1.png)
 ![Captura de pantalla de 2022-06-06 17-16-01](https://user-images.githubusercontent.com/80178613/172258403-e0e93973-0a21-4ce7-9ab2-c5a1e991f388.png)
 
